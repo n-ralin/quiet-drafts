@@ -1,7 +1,16 @@
 # quiet-drafts
 
-A small collection of structural notes, models and quiet thought experiments.
+A small collection of structural notes on systems, incentives and institutional behaviour.
 
-No schedule, no agenda, no affiliations.
+No schedule.
+No advocacy.
+No predictions.
+No affiliations.
 
-Just drafts.
+Models only.
+Dry, limited, non-prescriptive.
+
+Each draft describes one mechanism or interaction layer.
+They are independent, non-sequential, and intentionally incomplete.
+
+(Work in progress.)
