@@ -1,7 +1,5 @@
 # **Fixed-Cost Map – Draft**
 
----
-
 A minimal outline of cost structures that remain stable even as demand changes.
 
 ---
