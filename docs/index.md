@@ -11,7 +11,7 @@ and the mechanics that shape collective decision-making.
 ## Latest Notes
 
 A curated list of 2025 reasoning fragments:  
-→ [2025 Notes](2025/README.md)
+→ [2025 Notes](https://github.com/n-ralin/quiet-drafts/blob/main/2025/README.md "Open 2025 README")
 
 Upcoming notes for 2026 will appear here as they emerge.  
 No schedule. No obligation. Only signal.
